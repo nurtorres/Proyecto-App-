@@ -11,4 +11,4 @@ Integrantes de mi equipo:
 
 -Abril Galvan
 
--Yenny Gonzalez
+-Yenyfer Gonzalez
