@@ -24,7 +24,7 @@ Consecuencias principales:
 - Toma de malas decisiones a largo plazo
 - Limitación a aprovechamiento de oportunidades
 
-Definición de criterios de éxito
+Definición de criterios de éxito:
 - El prototipo debe registrar datos básicos del usuario sin errores (≥90% de pruebas exitosas).
 - El prototipo debe mostrar al menos una visualización gráfica con datos reales de su presupuesto.
 - El prototipo debe poder guardar y recuperar información (ingresos, gastos, metas de ahorro).
