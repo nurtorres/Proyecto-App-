@@ -6,10 +6,13 @@ Problema específico: Gran parte de los estudiantes universitarios presentan un 
 
 Población objetivo: Estudiantes universitarios
 
-Evidencias: La ENIF 2024 (Encuesta Nacional de Inclusión Financiera, INEGI-CNBV) reporta que 65.3 % de la población adulta (18-70 años) no lleva un registro de sus gastos o los de su hogar.chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/enif/ENIF2024_CP.pdf?utm_
+Evidencias: La ENIF 2024 (Encuesta Nacional de Inclusión Financiera, INEGI-CNBV) reporta que 65.3 % de la población adulta (18-70 años) no lleva un registro de sus gastos o los de su hogar. https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2025/enif/ENIF2024_CP.pdf?utm_
 
 Otra encuesta, la ENSAFI 2023 (Condusef), muestra que solo 32.8 % de adultos dijeron cumplir con llevar un registro de gastos completos. https://www.condusef.gob.mx/?idc=2448&idcat=1&p=contenido&utm_
 
+
+Aspectos directamente afectados: 
+Ingresos limitados y falta de estabilidad laboral y económica, acceso y uso inadecuado de servicios financieros, salud emocional y relaciones sociales, bajo nivel de educación financiera
 
 Roles iniciales asignados en el equipo:
 
@@ -22,13 +25,3 @@ Abril: QA/Analista
 Fabio: Apy 
 
 Nur: Dev UI
-
-Aspectos directamente afectados: 
-
-Ingresos limitados y falta de estabilidad laboral y económica
-
-Acceso y uso inadecuado de servicios financieros
-
-Salud emocional y relaciones sociales
-
-Bajo nivel de educación financiera
