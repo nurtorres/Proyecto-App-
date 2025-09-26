@@ -1,4 +1,4 @@
-ODS elegido (nombre y número). 
+ODS elegido: 
 Trabajo decente y crecimiento económico.  ODS 8
 
 
