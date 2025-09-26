@@ -19,7 +19,7 @@ Consecuencias principales:
 - Inestabilidad económica personal o familiar
 - Endeudamiento innecesario
 - Falta de ahorro y previsión financiera
-- Estrés financiero y afectaciones a la salud emocioanal
+- Estrés financiero y afectaciones a la salud emocional
 - Dependencia económica prolongada
 - Toma de malas decisiones a largo plazo
 - Limitación a aprovechamiento de oportunidades
