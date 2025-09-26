@@ -23,3 +23,9 @@ Consecuencias principales:
 - Dependencia económica prolongada
 - Toma de malas decisiones a largo plazo
 - Limitación a aprovechamiento de oportunidades
+
+Definición de criterios de éxito
+- El prototipo debe registrar datos básicos del usuario sin errores (≥90% de pruebas exitosas).
+- El prototipo debe mostrar al menos una visualización gráfica con datos reales de su presupuesto.
+- El prototipo debe poder guardar y recuperar información (ingresos, gastos, metas de ahorro).
+- El prototipo tiene que poder dejar al usuario registrarse y visualizar correctamente sus ingresos y egresos en el sistema.
